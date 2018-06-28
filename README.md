@@ -1,5 +1,5 @@
-# MLtoolbox
-ML Toolbox is a repository that contains supervised learning templates for the following ML algorithms (divided by regression and classification):
+# ML Toolbox
+ML Toolbox is a repository that contains supervised learning templates for the following ML algorithms (divided by regression and classification). 
 
 ### Classification
 
