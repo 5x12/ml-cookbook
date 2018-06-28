@@ -1,6 +1,6 @@
 # ML Toolbox
 ### Info
-ML Toolbox is a repository that contains supervised learning templates for the following ML algorithms (divided by regression and classification). 
+ML Toolbox is a repository that contains supervised learning algorithm templates. The algorithms are divided by regression and classification categories as shown below in the section "List of Algorithms".  
 
 ### How To Use'
 Each algorithm is divided in different sections in Jupyter Notebook, with instructions. To upload your data file, please see the "Importing Data" section. In case of an error, see the "Limitations" section of the notebook. 
