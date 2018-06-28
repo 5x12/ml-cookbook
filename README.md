@@ -1,7 +1,7 @@
 # MLtoolbox
 ML Toolbox is a repository that contains supervised learning templates for the following ML algorithms (divided by regression and classification):
 
-### Classification:
+### Classification
 
 1. KNN Classifier
 2. Linear Support Vector Machines (LSVM)
@@ -14,9 +14,7 @@ ML Toolbox is a repository that contains supervised learning templates for the f
 9. Neural Networks
 
 ### Regression
-KNN Regressor
-Ridge Regression
-Lasso Regression
-Polynomial Regression
-
-2. 
+1. KNN Regressor
+2. Ridge Regression
+3. Lasso Regression
+4. Polynomial Regression
