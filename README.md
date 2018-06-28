@@ -8,7 +8,7 @@ Each algorithm is divided in different sections in Jupyter Notebook, with instru
 ### Author
 I am responsible for the content and quality of the code. If you have any questions, please feel free to write to andrey.alikberov@gmail.com
 
-# Content
+# List of Algorithms
 ### Classification
 1. KNN Classifier
 2. Linear Support Vector Machines (LSVM)
