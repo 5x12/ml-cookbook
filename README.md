@@ -25,3 +25,4 @@ The author is responsible for the content and quality of the code. If you have a
 2. Ridge Regression
 3. Lasso Regression
 4. Polynomial Regression
+ 
