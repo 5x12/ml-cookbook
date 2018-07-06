@@ -9,7 +9,7 @@ Each algorithm is divided in different sections in Jupyter Notebook with appropr
 The author is responsible for the content and quality of the code. If you have any questions, write to andrey.alikberov@gmail.com.
 
 # List of Algorithms
-### Classification
+### Classification (To be added)
 1. KNN Classifier
 2. Linear Support Vector Machines (LSVM)
 3. Logistic Regression
@@ -21,8 +21,9 @@ The author is responsible for the content and quality of the code. If you have a
 9. Neural Networks
 
 ### Regression
-1. KNN Regressor
+1. KNN Regressor (To be added)
 2. Ridge Regression
 3. Lasso Regression
 4. Polynomial Regression
+5. Linear Regression
  
