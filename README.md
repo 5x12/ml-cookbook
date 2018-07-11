@@ -20,10 +20,10 @@ The author is responsible for the content and quality of the code.
 8. Random Forests
 9. Neural Networks
 
-### Regression
-1. KNN Regressor (To be added)
+### Regression 
+1. KNN Regressor (To be added) 
 2. Ridge Regression
-3. Lasso Regression
+3. Lasso Regression 
 4. Polynomial Regression
-5. Linear Regression
+5. Linear Regression 
  
