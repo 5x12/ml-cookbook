@@ -11,9 +11,9 @@ The author is responsible for the content and quality of the code.
 # List of Algorithms
 ### Classification (To be added)
 1. KNN Classifier
-2. Linear Support Vector Machines (LSVM)
-3. Logistic Regression
-4. Multiclass Classification
+2. Linear Support Vector Machines (LSVM) 
+3. Logistic Regression 
+4. Multiclass Classification 
 5. Kernalized Support Vector Machines (SVM)
 6. Decision Trees
 7. Naive Bayes Classifiers
