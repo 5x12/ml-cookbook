@@ -1,19 +1,19 @@
 # ML Toolbox
-### Info
+### Info 
 ML Toolbox is a repository that contains supervised learning algorithm templates. The algorithms are divided by regression and classification categories, as shown below in "List of Algorithms". 
 
-### How To Use 
+### How To Use
 Each algorithm is divided in different sections in Jupyter Notebook with appropriate instructions. None of the sections needs to be adjusted but the data input and input/target variables definition. 
 
-### Author 
+### Author
 The author is responsible for the content and quality of the code. 
 
-# List of Algorithms 
-### Classification (To be added) 
+# List of Algorithms
+### Classification (To be added)
 1. KNN Classifier
-2. Linear Support Vector Machines (LSVM) 
-3. Logistic Regression 
-4. Multiclass Classification 
+2. Linear Support Vector Machines (LSVM)
+3. Logistic Regression
+4. Multiclass Classification
 5. Kernalized Support Vector Machines (SVM)
 6. Decision Trees
 7. Naive Bayes Classifiers
