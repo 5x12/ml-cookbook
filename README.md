@@ -14,7 +14,7 @@ The author is responsible for the content and quality of the code.
 2. Linear Support Vector Machines (LSVM)
 3. Logistic Regression
 4. Multiclass Classification
-5. Kernalized Support Vector Machines (SVM)
+5. Kernelized Support Vector Machines (SVM)
 6. Decision Trees
 7. Naive Bayes Classifiers
 8. Random Forests
