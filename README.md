@@ -8,7 +8,7 @@ Each algorithm is divided in different sections in Jupyter Notebook with appropr
 ### Author
 The author is responsible for the content and quality of the code. Please refer to andrey.alikberov@pwc.com for any remarks. 
 
-# List of Algorithms
+# List of Algorithms 
 ### Classification
 1. Neural Network Classifier
 2. Linear Support Vector Machines (LSVM)
