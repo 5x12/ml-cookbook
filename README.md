@@ -19,7 +19,7 @@ The author is responsible for the content and quality of the code. Please refer 
 7. Naive Bayes Classifiers
 8. Random Forests
 
-### Regression 
+### Regression
 1. Neural Network Regressor
 2. Ridge Regression
 3. Lasso Regression 
