@@ -24,5 +24,4 @@ The author is responsible for the content and quality of the code. Please refer 
 2. Ridge Regression
 3. Lasso Regression 
 4. Polynomial Regression
-5. Linear Regression 
- 
+5. Linear Regression
