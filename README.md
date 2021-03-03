@@ -1,4 +1,5 @@
 # ML-Cookbook
+Made by @5x12
 ### Info 
 ML-Cookbook is a repository that contains supervised learning algorithm templates. The algorithms are divided by regression and classification, as shown below in "List of Algorithms". 
 
