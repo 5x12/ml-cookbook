@@ -1,0 +1,42 @@
+---
+title: "Chi Square Test"
+output: html_notebook
+---
+
+### Introduction
+In order to establish that 2 categorical variables are dependent, the chi-squared statistic should be above a certain cutoff. This cutoff increases as the number of classes within the variable increases.
+
+Alternatively, we can just perform a chi-squared test and check the `p-values`.
+
+Like all statistical tests, chi-squared test assumes a null hypothesis and an alternate hypothesis. The general practice is, if the p-value that comes out in the result is less than a pre-determined significance level, which is `0.05` usually, then we reject the null hypothesis.
+
+**H0**: The The two variables are independent
+
+**H1**: The two variables are related.
+
+The null hypothesis of the chi-squared test is that the two variables are independent and the alternate hypothesis is that they are related.
+
+### Who is smoking more
+We are going to use `survey` dataset in `MASS` package to implement an example of *Chi Squre test*. We will see the relation between the `Smoke` feature observations of the students smoking habit and the gender in `sex` column to see if gender affects this bad habit.
+
+First, let us look at the data
+```{r}
+library(MASS)
+str(survey)
+```
+
+Now let us create the *Contingency table*
+
+```{r}
+gender_smokers <- table(survey$Sex, survey$Smoke)
+```
+
+
+Now we can perform the test on the resultant contingency table.
+
+```{r}
+chi <- chisq.test(gender_smokers)
+print(chi)
+```
+
+We have a chi-squared value of `r chi$p.value`. Since we get a p-Value greater than the significance level of `0.05`, we accept the null hypothesis and conclude that the two variables are in fact independent. 
